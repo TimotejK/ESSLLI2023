@@ -8,6 +8,7 @@ evening_lecturers = [
     "id": "evening1",
     "date": "2023-08-01",
     "time": "7:00-8:30",
+    "room": "PA",
     "website": "https://fri.uni-lj.si/en/about-faculty/employees/marko-robnik-sikonja"
   },{
     "lecturer": "Malvina Nissim",
@@ -17,6 +18,7 @@ evening_lecturers = [
     "id": "evening2",
     "date": "2023-08-03",
     "time": "7:00-9:00",
+    "room": "PA",
     "website": "https://malvinanissim.github.io/"
   },{
     "lecturer": "Beniamino Accattoli",
@@ -26,6 +28,7 @@ evening_lecturers = [
     "id": "evening3",
     "date": "2023-08-08",
     "time": "7:00-8:30",
+    "room": "PA",
     "website": "https://sites.google.com/site/beniaminoaccattoli/"
   },{
     "lecturer": "Rick Nouwen",
@@ -35,6 +38,7 @@ evening_lecturers = [
     "id": "evening4",
     "date": "2023-08-10",
     "time": "7:00-9:00",
+    "room": "PA",
     "website": "https://ricknouwen.org/"
   }
 ]
