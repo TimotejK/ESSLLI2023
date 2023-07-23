@@ -7,7 +7,7 @@ evening_lecturers = [
     "description": "Currently, the most successful approach to natural language processing is based on large pretrained language models using the transformer architecture of neural networks. These are typically pretrained on huge text corpora on the tasks of predicting next tokens or masked tokens. While most existing models are predominantly monolingual, multilingual variants also exist and can help in cross-lingual transfer of knowledge and models. We will present a few types of large language models, focusing on cross-lingual transfer. We will show their strengths and weaknesses in text classification, summarization, and question answering.",
     "id": "evening1",
     "date": "2023-08-01",
-    "time": "7:00-8:30",
+    "time": "19:00-20:30",
     "room": "PA",
     "website": "https://fri.uni-lj.si/en/about-faculty/employees/marko-robnik-sikonja"
   },{
@@ -17,7 +17,7 @@ evening_lecturers = [
     "description": "The recognition of society’s role in language technology has become essential and cannot be overlooked. Still, plenty of research in Natural Language Processing does not explicitly account for such interplay. This evening lecture will zoom in on precisely this aspect. “Precisely” is an ambitious term, since the very definition of the relationship between language technology and society is subject to multiple interpretations, both in the context of scientific research as well as in connection with the general public, who currently is very much exposed to, interested in, and involved with language-based artificial intelligence tools. Through recent work I’ve carried out with my group, and through personal reflections, I will unpack this exciting relationship from different angles.",
     "id": "evening2",
     "date": "2023-08-03",
-    "time": "7:00-9:00",
+    "time": "19:00-21:00",
     "room": "PA",
     "website": "https://malvinanissim.github.io/"
   },{
@@ -27,7 +27,7 @@ evening_lecturers = [
     "description": "The lambda calculus is an expressive mathematical formalism that elegantly captures the core of functional programming languages, while providing at the same time compact representations of intuitionistic logic proofs.\nThe first part of the talk shall survey the recent advances in the study of reasonable cost models for the lambda calculus, that is, of time and space cost measures that are equivalent to those of Turing machines. In particular, it shall overview how understanding the role of sharing in the evaluation process is crucial for both time and space, but for opposite reasons.\nThe second part of the talk shall show that extending the lambda calculus with first-class sharing is not a minor extension, as crucial semantic properties and results break, and new tools and richer theories need to be developed.",
     "id": "evening3",
     "date": "2023-08-08",
-    "time": "7:00-8:30",
+    "time": "19:00-20:30",
     "room": "PA",
     "website": "https://sites.google.com/site/beniaminoaccattoli/"
   },{
@@ -37,7 +37,7 @@ evening_lecturers = [
     "description": "Classic accounts of linguistic information exchange are based on the assumption that the meaning of an uttered sentence helps us navigate the space of all the possible ways the world could be, where this space is seen as a simple partitioned set or as the event space of a probability distribution. Underlying these models is the assumption that the speaker of the utterance is being truthful. It is well-known, however, that we often deliberately use sentences that we do not believe to be true, without the intention to deceive. Examples include metaphor and jokes, but in this talk I will focus on exaggeration. We routinely use utterances that over- or understate things. For instance, when you are very busy and someone asks you to do something, you may state that you've got \"a million things to do\", or say sarcastically \"sure, I've got nothing else to do\". In this lecture, I will look at linguistic, semantic and pragmatic properties of such utterances and show how we can accommodate them in existing logical and computational models of linguistic communication.",
     "id": "evening4",
     "date": "2023-08-10",
-    "time": "7:00-9:00",
+    "time": "19:00-21:00",
     "room": "PA",
     "website": "https://ricknouwen.org/"
   }
