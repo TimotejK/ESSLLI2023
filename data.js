@@ -31,15 +31,15 @@ evening_lecturers = [
     "room": "PA",
     "website": "https://sites.google.com/site/beniaminoaccattoli/"
   },{
-    "lecturer": "Rick Nouwen",
-    "title": "The language, logic and computation of exaggeration",
+    "lecturer": "Darja Fišer",
+    "title": "TBA",
     "group": "Evening",
-    "description": "Classic accounts of linguistic information exchange are based on the assumption that the meaning of an uttered sentence helps us navigate the space of all the possible ways the world could be, where this space is seen as a simple partitioned set or as the event space of a probability distribution. Underlying these models is the assumption that the speaker of the utterance is being truthful. It is well-known, however, that we often deliberately use sentences that we do not believe to be true, without the intention to deceive. Examples include metaphor and jokes, but in this talk I will focus on exaggeration. We routinely use utterances that over- or understate things. For instance, when you are very busy and someone asks you to do something, you may state that you've got \"a million things to do\", or say sarcastically \"sure, I've got nothing else to do\". In this lecture, I will look at linguistic, semantic and pragmatic properties of such utterances and show how we can accommodate them in existing logical and computational models of linguistic communication.",
+    "description": "TBA",
     "id": "evening4",
     "date": "2023-08-10",
     "time": "19:00-21:00",
     "room": "PA",
-    "website": "https://ricknouwen.org/"
+    "website": "https://www.inz.si/en/Scientific-research-department/Darja-Fiser_en/"
   }
 ]
 
