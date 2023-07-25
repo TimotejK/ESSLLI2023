@@ -32,9 +32,9 @@ evening_lecturers = [
     "website": "https://sites.google.com/site/beniaminoaccattoli/"
   },{
     "lecturer": "Darja Fišer",
-    "title": "TBA",
+    "title": "The Good, the Bad and the Ugly of Language Technology Infrastructure",
     "group": "Evening",
-    "description": "TBA",
+    "description": "Advances in digitization and datafication have been transformative for linguistics and other disciplines that work with language materials. This has increased the need for research infrastructures that supports the development, documentation, archiving, dissemination, reuse and citation of language resources and tools which is prerequisite for verifiable, reproducible and ethical research. Still, the potential of research infrastructures in language technology remains undervalued and underutilised in the real world of language-based research and education. Based on the work conducted within my research group as well as through personal observations, I will address the good, the bad and the ugly aspects of adopting the research infrastructure principles that is built around the Open Science and FAIR data paradigm.",
     "id": "evening4",
     "date": "2023-08-10",
     "time": "19:00-21:00",
