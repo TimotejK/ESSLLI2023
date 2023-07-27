@@ -287,7 +287,7 @@ week1 = [
         },
         {
           "lecturer": "Brian Logan",
-          "title": "Logics for Safe AI",
+          "title": "Logics for Safe AI (course supported by EurAI)",
           "group": "Advanced",
           "description": "This advanced course will introduce the use of logics for the specification, verification and synthesis of provably correct AI programs. The topics will range from verification of multi-agent systems, synthesis of strategies for coalitions of agents, the use of logic in ensuring safety properties in reinforcement learning, and synthesising reward functions in reinforcement learning from logical specifications.",
           "id": "1-18"
