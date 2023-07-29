@@ -283,7 +283,11 @@ week1 = [
           "title": "Possibility Semantics",
           "group": "Introductory",
           "description": "Possibility Semantics is a generalization of Possible World Semantics, based on partial possibilities instead of complete possible worlds. In recent years, this approach has been applied to the semantics of modal and non-classical logics, natural language semantics, and semi-constructive mathematics. In this course, we will provide: a more accessible introduction to Possibility Semantics than is available in the technical literature (Day 1); in-depth sample applications of Possibility Semantics to the modeling of knowledge and awareness (Day 2), the formal semantics of epistemic modals in natural language (Day 3), and temporal logic and the openness of the future (Day 4); and an introduction to propositional and first-order quantification in possibility semantics (Day 5). No previous familiarity with Possibility Semantics will be assumed. Over the course of the week, we will suggest a number of open problems and avenues for future research.",
-          "id": "1-23"
+          "id": "1-23",
+          "website": "https://sites.google.com/site/wesholliday/research/modality/modal-logic/possibility-semantics-esslli-2023",
+          "course-material": [
+            {"title": "Course website", "link": "https://sites.google.com/site/wesholliday/research/modality/modal-logic/possibility-semantics-esslli-2023"}
+          ]
         },
         {
           "lecturer": "Brian Logan",
