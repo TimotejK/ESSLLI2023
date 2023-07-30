@@ -328,7 +328,8 @@ week2 = [
           "title": "Common ground",
           "group": "Foundational",
           "description": "Common ground has been a central notion in theoretical pragmatics since the 1970s, and a fixture in theories of presupposition, reference, speech acts, implicature, and many other topics. Given that pragmatics is an interdisciplinary concern, it is hardly surprising that common ground has been discussed across a range of disciplines, including philosophy, linguistics, psychology, and computer science. But for all its importance, there has been relatively little discussion of foundational issues. Stalnaker (2002, 2014) is a notable exception, but he only discusses his own view. There are radically different views on the nature of common ground, i.e. what common ground IS, and there have been no attempts to compare and contrast these views at any length, and consider their implications for the analysis of speech acts and fiction, for example.  In brief, that is the  objective of this course.",
-          "id": "2-0"
+          "id": "2-0",
+          "note": "CANCELLED"
         },
         {
           "lecturer": "Niki Pfeifer",
