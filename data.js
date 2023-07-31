@@ -241,7 +241,7 @@ week1 = [
   {
     "time": "3.50pm - 4.50pm",
     "groups": [],
-    "title": "Student Session (StuS)",
+    "title": "Student Session (StuS)<br/>Room: PA",
     "link": "courses-workshops-accepted/student-session-call.html"
   },
   {
@@ -522,7 +522,7 @@ week2 = [
   {
     "time": "3.50pm - 4.50pm",
     "groups": [],
-    "title": "Student Session (StuS)",
+    "title": "Student Session (StuS)<br/>Room: PA",
     "link": "courses-workshops-accepted/student-session-call.html"
   },
   {
