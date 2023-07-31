@@ -69,14 +69,16 @@ week1 = [
           "title": "Neural Machine Translation",
           "group": "Introductory",
           "description": "In this course students will be introduced to machine translation (MT): a field that investigates the use of software to translate text automatically between different languages. The course provides an overview of this field and focuses on the currently dominating paradigm in MT, which uses neural networks (NNs). Students will be introduced to the main NN architectures used in MT, which are also commonly used in other sequence-to-sequence language tasks (e.g. text summarisation). The course will also cover the evaluation of MT systems, the use of linguistic knowledge in MT systems, unsupervised approaches to MT, and different uses of MT systems in the wider society together with the implications thereof.",
-          "id": "1-2"
+          "id": "1-2",
+          "room": "P22"
         },
         {
           "lecturer": "Gasper Begus",
           "title": "Deep Language Learning: Modeling language from raw speech",
           "group": "Advanced",
           "description": "For the first time in history, we can model language from raw speech in a fully unsupervised manner. Using deep generative models trained on speech, we can model phonetic, phonological, morphological, and even basic syntactic and lexical semantic learning.  This course will introduce students to deep learning and techniques to uncover linguistically meaningful representations in deep neural networks trained on raw speech. We will focus on convolutional neural networks, an architecture that is  inspired by biological neural processing and has seen many applications in visual and audio processing. We will learn to train a generative adversarial network on spoken language, find disentangled causal structure in the hidden space of these networks, introspect their intermediate representations, and use these outputs for language modeling. Understanding how deep neural networks learn has consequences both for linguistic theory and cognitive science as well as for building interpretable machine learning.",
-          "id": "1-3"
+          "id": "1-3",
+          "room": "P01"
         }
       ],
       [
