@@ -210,7 +210,7 @@ week1 = [
           "group": "Advanced",
           "description": "Most approaches to natural language processing assume that language is consistently unambiguous: there is always only one right answer to a question, each sentence has exactly one specific meaning, and text classification tasks generally have only one correct solution. But do these assumptions really hold up in reality? A growing body of research is examining the fact that questions can be answered differently, texts can be understood in various ways, and annotators in general can have conflicting opinions.\nIn this advanced course, we will take a closer look at some of the difficulties that arise from the inherent ambiguity of language. In the first half of the course, we will introduce different types of challenges and corresponding tasks proposed in the literature. In the second half of the course, we will discuss possible solutions from recent research as well as natural limitations that might remain for computational models of language.",
           "id": "1-16",
-          "room": "P1"
+          "room": "P01"
         }
       ],
       [
