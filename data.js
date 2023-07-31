@@ -274,7 +274,8 @@ week1 = [
           "title": "Computational Game Theory in Julia",
           "group": "Introductory",
           "description": "There are two objectives for this course. The first objective is to introduce the Julia programming language, with a special focus on developing programs to study game theory using the Agents.jl package (https://juliadynamics.github.io/Agents.jl) and the GameTheory.jl package (https://quantecon.github.io/GameTheory.jl). The second objective is to provide an introduction to game theory emphasizing issues of particular relevance to students at ESSLLI, such as signaling games and repeated games on networks. The course will include a number of tutorials that will give students hands-on experience writing Julia programs. No previous experience with the Julia programming language will be assumed.",
-          "id": "1-21"
+          "id": "1-21",
+          "room": "P01"
         },
         {
           "lecturer": "Kyle Richardson and Vivek Srikumar",
