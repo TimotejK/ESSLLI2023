@@ -201,7 +201,8 @@ week1 = [
           "title": "Natural Language Syntax and Statistical Semantics with Modal Lambek Calculus",
           "group": "Introductory",
           "description": "The Lambek Calculus models natural language grammar as a logic, rejecting the rules of commutativity, associativity, contraction and weakening. Controlled versions of these rules can be added via modalities and the resulting logic is known as Modal Lambek Calculus. Modal Lambek Calculus has a compositional interface to natural language semantics: to possible worlds via ternary frames, and to vector representations via  algebraic constructions over syntax.\nThis course has two parts. The first part covers the core methodology behind the  modelling with Lambek Calculus and its modal extensions; we derive examples of syntactic constructions and analyse their semantics. After that, we focus on the vector semantics and  show how they are learnt via statistical machine learning, applying the results to semantic similarity and disambiguation tasks. Along the way, we offer the possibility to work with user-friendly tools that produce syntactic derivations and compute statistical representations, and datasets for empirical validations/applications.",
-          "id": "1-15"
+          "id": "1-15",
+          "room": "P20"
         },
         {
           "lecturer": "Michael Roth",
@@ -218,7 +219,8 @@ week1 = [
           "title": "Tools for Formal Epistemology: Doxastic Logic, Probability and Default Logic",
           "group": "Foundational",
           "description": "Logicians, philosophers, and artificial intelligence researchers interested in epistemic questions---or, roughly, questions relating to belief, knowledge, and reasoning---have developed formal models to refine these questions and to answer them. This course will introduce three of the most prominent such formal models: doxastic logic, Bayesian models, and default logic. We will introduce these models, highlighting their similarities and differences, as well as their advantages and pitfalls. The course will touch on the fundamental questions driving much of the research in formal epistemology. In addition to presenting the different models, we will discuss such issues as the lottery and preface paradoxes, doxastic paradoxes, the source of epistemic normativity, and puzzles associated with higher-order evidence and peer disagreement.",
-          "id": "1-17"
+          "id": "1-17",
+          "room": "PB"
         },
         {
           "lecturer": "Valentin Goranko and Dmitry Shkatov",
@@ -230,7 +232,7 @@ week1 = [
             {"title": "Course website", "link": "https://www2.philosophy.su.se/goranko/Courses2023/ESSLLI2023.html"}
           ],
           "id": "1-24",
-          "room": "P20"
+          "room": "P22"
         }
       ]
     ]
@@ -295,7 +297,8 @@ week1 = [
           "website": "https://sites.google.com/site/wesholliday/research/modality/modal-logic/possibility-semantics-esslli-2023",
           "course-material": [
             {"title": "Course website", "link": "https://sites.google.com/site/wesholliday/research/modality/modal-logic/possibility-semantics-esslli-2023"}
-          ]
+          ],
+          "room": "P22"
         },
         {
           "lecturer": "Brian Logan",
@@ -309,7 +312,8 @@ week1 = [
           "title": "Logics with Probability Operators and Quantifiers",
           "group": "Advanced",
           "description": "Many formalisms for representing, and reasoning with, uncertain knowledge are based on probabilistic logics that extend classical logic calculus with probability operators or quantifiers. The main goal of this course is to provide a solid foundation for students that want to use results and ideas from probabilistic logics  in their own field of study. We will introduce inductive logic, predicate logic with probability quantifiers and several logics with probability operators through a variety of examples from different fields (philosophy, decision theory, artificial intelligence, game theory etc.), and a more detailed presentation of related research problems (Specify some principles of rational belief and find their mathematical representation; Investigate logical consequence of the law of large number; Axiomatize propositional logic related to Markov processes). We will present an overview of main results and show that all those approaches are essentially connected. We will also present probabilistic extensions of various other logic systems.",
-          "id": "1-25"
+          "id": "1-25",
+          "room": "P19"
         }
       ],
       [
