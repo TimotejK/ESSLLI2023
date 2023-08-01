@@ -9,6 +9,7 @@ evening_lecturers = [
     "date": "2023-08-01",
     "time": "19:00-20:30",
     "room": "PA",
+    "moderator": "Slavko Žitnik",
     "website": "https://fri.uni-lj.si/en/about-faculty/employees/marko-robnik-sikonja"
   },{
     "lecturer": "Malvina Nissim",
@@ -19,6 +20,7 @@ evening_lecturers = [
     "date": "2023-08-03",
     "time": "19:00-21:00",
     "room": "PA",
+    "moderator": "Valerio Basile",
     "website": "https://malvinanissim.github.io/"
   },{
     "lecturer": "Beniamino Accattoli",
@@ -29,6 +31,7 @@ evening_lecturers = [
     "date": "2023-08-08",
     "time": "19:00-20:30",
     "room": "PA",
+    "moderator": "Valentin Goranko",
     "website": "https://sites.google.com/site/beniaminoaccattoli/"
   },{
     "lecturer": "Darja Fišer",
@@ -39,6 +42,7 @@ evening_lecturers = [
     "date": "2023-08-10",
     "time": "19:00-21:00",
     "room": "PA",
+    "moderator": "John McCrae",
     "website": "https://www.inz.si/en/Scientific-research-department/Darja-Fiser_en/"
   }
 ]
