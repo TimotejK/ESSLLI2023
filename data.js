@@ -202,7 +202,11 @@ week1 = [
           "group": "Introductory",
           "description": "The Lambek Calculus models natural language grammar as a logic, rejecting the rules of commutativity, associativity, contraction and weakening. Controlled versions of these rules can be added via modalities and the resulting logic is known as Modal Lambek Calculus. Modal Lambek Calculus has a compositional interface to natural language semantics: to possible worlds via ternary frames, and to vector representations via  algebraic constructions over syntax.\nThis course has two parts. The first part covers the core methodology behind the  modelling with Lambek Calculus and its modal extensions; we derive examples of syntactic constructions and analyse their semantics. After that, we focus on the vector semantics and  show how they are learnt via statistical machine learning, applying the results to semantic similarity and disambiguation tasks. Along the way, we offer the possibility to work with user-friendly tools that produce syntactic derivations and compute statistical representations, and datasets for empirical validations/applications.",
           "id": "1-15",
-          "room": "P20"
+          "room": "P20",
+          "website": "https://sites.google.com/view/esslli2023course",
+          "course-material": [
+            {"title": "Course website", "link": "https://sites.google.com/view/esslli2023course"}
+          ]
         },
         {
           "lecturer": "Michael Roth",
