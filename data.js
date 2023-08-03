@@ -551,7 +551,10 @@ week2 = [
           "description": "Formal semantics based on modern type theories (MTT-semantics) provides us with not only a viable alternative to Montague’s semantics, but potentially an attractive full-blown semantic tool with advantages in many respects. However, the salient features of MTT-semantics may only be discussed properly when more advanced semantic topics are considered. For example, people may ask: how does it fare with semantic issues such as events and anaphoric reference, and could it offer a good treatment of intriguing linguistic features such as copredication? In the past, some of these advanced issues have only been dealt with briefly [1], but more recently they have been studied more in depth in the proposer’s monograph [2]. In this course, after an overview introduction, I shall consider the following topics in MTT-semantics: event semantics, anaphoric references, copredication and dependent categorial grammars. I’ll also compare the treatments with those studied in the Montagovian approach and discuss their respective merits.\n[1] S. Chatzikyriakidis and Z. Luo. Formal Semantics in Modern Type Theories. Wiley/ISTE, 2020. \n[2] Z. Luo. Modern Type Theories: Their Development and Applications. Tsinghua University Press, 2022. In press.",
           "id": "2-20",
           "course-material": [
-            {"title": "Course proposal", "link": "https://2023.esslli.eu/images/2023/documents/Formal-Semantics/ESSLLI23proposal.pdf"}
+            {"title": "Course proposal", "link": "https://2023.esslli.eu/images/2023/documents/Formal-Semantics/ESSLLI23proposal.pdf"},
+            {"title": "Slides for Lecture I", "link": "https://2023.esslli.eu/images/2023/documents/Formal-Semantics/ESSLLI23slides(L1).pdf"},
+            {"title": "Slides for all 5 lectures", "link": "https://www.cs.rhul.ac.uk/home/zhaohui/lecture-notes.html"},
+            {"title": "Papers/books on MTT-semantics", "link": "https://www.cs.rhul.ac.uk/home/zhaohui/lexsem.html"}
           ]
         },
         {
