@@ -600,7 +600,11 @@ week2 = [
           "title": "Logics of dependence and independence",
           "group": "Advanced",
           "description": "This course provides a concise introduction to logics of dependence and independence (DIL), which are  formalisms for reasoning about dependence and independence relations in sciences. We will study the novel semantics of DIL -- team semantics. The basic idea of team semantics is that dependency properties can only manifest themselves in multitudes, and thus formulas of DIL are evaluated on sets of assignments (called teams) instead of single assignments as in the usual Tarskian semantics. A team can be naturally viewed as a database, a dataset, an information state, etc. Thanks to the simple structure of teams and the abundance of their interpretations in various fields of science, DIL have found a number of applications in addressing issues in database theory, social choice, quantum theory, formal linguistics, and so on. This course will also discuss recent developments on these applications.",
-          "id": "2-25"
+          "id": "2-25",
+          "course-material": [
+            {"title": "Course website", "link": "https://sites.google.com/view/dil-esslli23/"}
+          ],
+          "website": "https://sites.google.com/view/dil-esslli23/"
         }
       ]
     ]
