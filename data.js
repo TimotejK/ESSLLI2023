@@ -1,4 +1,3 @@
-
 evening_lecturers = [
   {
     "lecturer": "Marko Robnik Šikonja",
@@ -440,7 +439,10 @@ week2 = [
           "title": "Computational approaches to semantic change detection",
           "group": "Advanced",
           "description": "During the last three years, automatic detection of language change has been intensified by the introduction of several datasets manually annotated for this task, and by a series of shared tasks. However, a gap still exists between theoretic understanding of various linguistic phenomena contributing to language change and abilities of computational methods to capture these phenomena. The goal of this course is to provide a broad overview of this novel research area and discuss in detail various methods used to detect word meaning shift. We will also discuss open problems and possible practical applications. Every day of the course will feature a lecture and a small practice session. The course will allow students to start working in this research area.",
-          "id": "2-3"
+          "id": "2-3",
+          "course-material": [
+            {"title": "Course GitHub", "link": "https://github.com/lmphcs/semshift_esslli2023"}
+          ],
         }
       ],
       [
