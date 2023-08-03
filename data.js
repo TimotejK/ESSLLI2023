@@ -552,7 +552,7 @@ week2 = [
           "id": "2-20",
           "course-material": [
             {"title": "Course proposal", "link": "https://2023.esslli.eu/images/2023/documents/Formal-Semantics/ESSLLI23proposal.pdf"},
-            {"title": "Slides for Lecture I", "link": "https://2023.esslli.eu/images/2023/documents/Formal-Semantics/ESSLLI23slides(L1).pdf"},
+            {"title": "Slides for Lecture I", "link": "https://2023.esslli.eu/images/2023/documents/Formal-Semantics/ESSLLI23slidesL1.pdf"},
             {"title": "Slides for all 5 lectures", "link": "https://www.cs.rhul.ac.uk/home/zhaohui/lecture-notes.html"},
             {"title": "Papers/books on MTT-semantics", "link": "https://www.cs.rhul.ac.uk/home/zhaohui/lexsem.html"}
           ]
