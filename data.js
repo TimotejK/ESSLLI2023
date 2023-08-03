@@ -380,7 +380,11 @@ week2 = [
           "title": "Quantification in Dynamic Epistemic Logic",
           "group": "Introductory",
           "description": "Dynamic epistemic logics (DELs) allow one to reason about how knowledge of agents evolves as a result of various information-changing events. Some of the notable examples of DELs include public announcement logic, arrow update logic, and action model logic. Adding quantification over epistemic events in those DELs shifts the perspective from the effects of a particular event to the question of (non-)existence of an event leading to some epistemic outcome. For example, we may want to verify that there is a communication between Alice and Bob such that they both learn some secret, while eavesdropper Eve remains unaware of the secret. In the course, we will present some of the more well-known DELs with quantification and provide highlights of the proofs behind significant technical results. Moreover, we will also discuss some of the tantalising open question spanning the landscape of logics with quantification over information change.",
-          "id": "2-4"
+          "id": "2-4",
+          "website": "https://rgalimullin.gitlab.io/esslli23.html",
+          "course-material": [
+            {"title": "Course website", "link": "https://rgalimullin.gitlab.io/esslli23.html"}
+          ],
         },
         {
           "lecturer": "Beniamino Accattoli",
