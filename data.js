@@ -416,7 +416,7 @@ week2 = [
     "groups": [
       [
         {
-          "lecturer": "Elin Mccready and Grégoire Winterstein",
+          "lecturer": "Elin McCready and Grégoire Winterstein",
           "title": "Communitarian Semantics",
           "group": "Introductory",
           "description": "In the past 15 years, the study of linguistic expressions with meanings keyed to social domains has taken off in linguistics and philosophy. Empirical domains include slurs, gendered expressions, honorifics, discourse markers, and sociolinguistic indexicals, among others; phenomena include epistemic injustice, standpoints, argumentation, and dogwhistling, among others. The aim of this course is twofold: first, to introduce recent developments in this area to students together with the technical tools, both formal and computational, that have been used to analyze them, and, second, to give a birds-eye view of the study of meaning that situates work in this area in the broader semantic landscape.",
@@ -458,7 +458,7 @@ week2 = [
           "id": "2-11"
         },
         {
-          "lecturer": "Balder Ten Cate and Carsten Lutz",
+          "lecturer": "Balder ten Cate and Carsten Lutz",
           "title": "Logic, Data Examples, and Learning",
           "group": "Introductory",
           "description": "In logic, data examples are useful when a logical formula must be  synthesized or communicated. This includes tasks such as  the reverse engineering of logical queries, debugging and refinement  of formal specifications, as well as various forms of learning.\nThis course provides a uniform introduction to the use of data examples in logic, covering logical formalisms that range from propositional logic  to first-order logic (including conjunctive queries and description logics), and addressing the following questions:\n* When, and to what extent, can a logical formula be described by a    small number of data examples. (\"From Formulas to Data Examples\")\n* How to construct a fitting formula from a set of data examples?    When more than one fitting formula exists, which one should be    preferred?  (\"From Data Examples to Formulas\")\n* When is a fitting formula likely to generalize from input examples to     unseen data examples, and how many input examples are     required to achieve this? (\"PAC Learning\")\n* In interactive design and refinement systems, data examples provide     a means of communication between the system and the user. This    can be modeled as an interactive learning setting with a learner and    an oracle. When is efficient interactive learning of this type possible?",
