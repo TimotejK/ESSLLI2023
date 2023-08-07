@@ -595,7 +595,8 @@ week2 = [
           "title": "Computational Creativity",
           "group": "Introductory",
           "description": "This course provides an introduction to the field of computational creativity. We will examine different approaches to the computational modeling of creativity, and see how they relate to theories of human creativity. The course focuses primarily on computational creativity from a language-oriented perspective. As such, we will examine different applications of creative language generation (such as metaphor, humor, neologisms, poetry, and stories) from a computational perspective. Additionally, cross-modal and multi-modal approaches to computational creativity will be explored. Along the way, we will discuss a number of crucial topics, such as the preconditions of computational creativity, the evaluation of computationally creative systems, and the ethical implications.",
-          "id": "2-22"
+          "id": "2-22",
+          "room": "P22"
         },
         {
           "lecturer": "Fausto Carcassi and Michael Franke",
