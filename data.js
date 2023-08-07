@@ -355,7 +355,8 @@ week2 = [
           "title": "Probability logic, language, and cognition",
           "group": "Introductory",
           "description": "Uncertainty is ubiquitous in everyday life communication and reasoning. In this course, we will learn methods and tools to understand language and cognition under uncertainty. We will get interdisciplinary perspectives by combining formal-philosophical and experimental-psychological approaches. In particular, we will understand why coherence-based probability logic offers a unified rationality framework for studying diverse phenomena including conditionals, counterfactuals, connexivity, quantification, reasoning, and argumentation on the normative level. Moreover, on the descriptive level, we will become familiar with recent experimental-psychological results on linguistic phenomena, cognition, and reasoning under uncertainty. Specifically, we will learn about formal and experimental work on nonmonotonic reasoning, conditionals, counterfactuals, quantification, connexivity, and argumentation. Finally, we will achieve a deeper understanding of what it means to be rational under incomplete knowledge and uncertainty.",
-          "id": "2-1"
+          "id": "2-1",
+          "room": "P01"
         }
       ],
       [
@@ -371,7 +372,8 @@ week2 = [
           "title": "Formal Language Theory and Neural Networks",
           "group": "Advanced",
           "description": "This tutorial is a comprehensive introduction to neural networks, focusing on recurrent neural networks (RNNs) and transformers, and their relationship to formal language theory. We teach how tools from weighted formal language theory can be useful for understanding the inner workings of and predicting the generalization of modern neural architectures. Over the course of five days, we will explore the theoretical properties of RNNs and their representational capacity in relation to different levels of the weighted Chomsky hierarchy, starting with finite-state automata and the special case of bounded-depth hierarchical languages, and then move on to more complex formalisms such as context-free languages and Turing machines. We will prove multiple theoretical properties of RNNs, including the fact that simple RNNs with infinite precision arithmetic and unbounded computation time can emulate a Turing machine and show how RNNs can optimally represent finite-state automata. Finally, we will discuss recent results in the study of Transformer-based language models from the perspective of formal language theory. Finally, we will discuss the implications of these results for the analysis and practical deployment of language models.",
-          "id": "2-10"
+          "id": "2-10",
+          "room": "P22"
         }
       ],
       [
@@ -401,7 +403,8 @@ week2 = [
           "group": "Workshop",
           "website": "https://dshkatov.github.io/fomtl2023/",
           "description": "First-order modal and temporal logics are of fundamental importance for reasoning about necessity, possibility, and temporality. They offer a broad range of actual and potential applications to philosophy, artificial intelligence, computer science, cognitive science, and linguistics.\nThe workshop is intended to bring together researchers and graduate students in the field of first-order modal and temporal logics, to present the state of the art in the field and to discuss the most important directions for future work in the area.",
-          "id": "2-6"
+          "id": "2-6",
+          "room": "P20"
         }
       ]
     ]
