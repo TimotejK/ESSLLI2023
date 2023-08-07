@@ -439,7 +439,8 @@ week2 = [
           "title": "Introduction to Linguistic Data Science",
           "group": "Introductory",
           "description": "Big data is fundamentally changing the way that linguists can investigate linguistic facts leading to a new research area which combines data science with linguistics. This course provides an introduction to the new area of linguistic data science by means of an introductory course with hands-on data analysis that is focused on key questions in linguistics. This course will first provide a basic introduction to data science and in particular how this can be applied to large corpora using natural language processing techniques. We will then show how this can be used to find answers to problems in syntax, semantics, multilinguality and other areas of linguistics, along with a summary giving perspectives on how these methods can be applied to students' own research.",
-          "id": "2-9"
+          "id": "2-9",
+          "room": "P01"
         },
         {
           "lecturer": "Lidia Pivovarova and Andrey Kutuzov",
@@ -458,14 +459,16 @@ week2 = [
           "title": "An Introduction to Proof Equivalence",
           "group": "Introductory",
           "description": "The goal of this course is to provide an overview on important results and current research trends in proof theory around the notion of proof equivalence. This is the problem of understanding when two formal derivations represent ``the same'' proof, both intuitively and in more precise semantical terms. The search for more canonical representations of logical arguments has lead to the design of new proof systems based on ideas from graph theory or category theory.  Research on proof equivalence has received considerable attention in the proof-theory community, and has led in recent years to several applications in computer science (e.g. for program equivalence or proof-search). However, a structured presentation of fundamental results and perspectives in this area is still missing, and we consider this course as a first step in the direction of filling this gap.",
-          "id": "2-11"
+          "id": "2-11",
+          "room": "P22"
         },
         {
           "lecturer": "Balder ten Cate and Carsten Lutz",
           "title": "Logic, Data Examples, and Learning",
           "group": "Introductory",
           "description": "In logic, data examples are useful when a logical formula must be  synthesized or communicated. This includes tasks such as  the reverse engineering of logical queries, debugging and refinement  of formal specifications, as well as various forms of learning.\nThis course provides a uniform introduction to the use of data examples in logic, covering logical formalisms that range from propositional logic  to first-order logic (including conjunctive queries and description logics), and addressing the following questions:\n* When, and to what extent, can a logical formula be described by a    small number of data examples. (\"From Formulas to Data Examples\")\n* How to construct a fitting formula from a set of data examples?    When more than one fitting formula exists, which one should be    preferred?  (\"From Data Examples to Formulas\")\n* When is a fitting formula likely to generalize from input examples to     unseen data examples, and how many input examples are     required to achieve this? (\"PAC Learning\")\n* In interactive design and refinement systems, data examples provide     a means of communication between the system and the user. This    can be modeled as an interactive learning setting with a learner and    an oracle. When is efficient interactive learning of this type possible?",
-          "id": "2-12"
+          "id": "2-12",
+          "room": "PB"
         }
       ],
       [
