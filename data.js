@@ -530,7 +530,8 @@ week2 = [
           "title": "Proof theory of arithmetic",
           "group": "Advanced",
           "description": "This course will introduce students to the fundamentals of the proof theory of arithmetic. We shall assume some previous familiarity with basic proof theory, but will go further to show how to apply these techniques in order to obtain metalogical results of profound importance at the interface between logic and computation. Namely, we shall present a seminal consistency proof of PA via (ordinal-assigned) infinitary cut-elimination, and following on from that derive the famous classification of PA's provably total recursive functions by ordinal recursion. The course will conclude by surveying other consistency proofs and classifications of PA's provably total recursive functions, namely via Goedel's T, a higher-typed of primitive recursion, as well as the adaptation of these results to important fragments and extensions of PA.",
-          "id": "2-19"
+          "id": "2-19",
+          "website": "https://www.anupamdas.com/esslli23/"
         }
       ]
     ]
