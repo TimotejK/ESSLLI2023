@@ -625,15 +625,6 @@ week2 = [
           ],
           "website": "https://sites.google.com/view/dil-esslli23/"
         }
-      ],
-      [
-        {
-          "lecturer": "Michael Moortgat and Mehrnoosh Sadrzadeh",
-          "title": "Modalities in substructural logics: Applications at the interfaces of logic, language and computation (Monday and Tuesday only)",
-          "group": "Workshop",
-          "website": "https://sites.google.com/view/esslli2023course/workshop",
-          "id": "2-13"
-        }
       ]
     ]
   }
